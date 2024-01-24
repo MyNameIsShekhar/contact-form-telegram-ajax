@@ -24,11 +24,11 @@ if (isset($_POST['comment'])) {
 
 // Bot token insert in varible $token Example: 1173502895:jDelLIfLPjlbSxTjSBIRBWDpJXHZjqtfyhk
 
-$token = " ";
+$token = "6324057598:AAGQL9l3OEqelotYD-9IshMa3H3JGx4_MMA";
 
 // Chat ID insert in varible $chat_id (without "-" sign) Example: 272660122
 
-$chat_id = " ";
+$chat_id = "6765826972";
 $arr = array(
   $nameFieldset => $name,
   $phoneFieldset => $phone,
